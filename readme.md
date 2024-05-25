@@ -4,23 +4,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/CNtrinidad/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/profile.jpg" alt="me" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Title</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Clarence Nicolai Trinidad - BSIT-WMA
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=CNtrinidad/WD-Seatwork-2-TX03)
 
 ---
 
@@ -57,20 +57,13 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+This project is a website that serves as my resume. Here you will learn about the website's developer and a brief introduction into his life by yours truly, Clarence Trinidad.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+Single Page Website - for organization of details.
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -111,4 +104,6 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Font Awesome | The iconic SVG, font, and CSS toolkit | https://cdnjs.com/libraries/font-awesome/4.7.0 |
+| Font Awesome - icons | icons | https://fontawesome.com/v4/icons/|
+| Resume Design | Tutorial/Guide | https://www.youtube.com/watch?v=hnjHCmaUVPg|
